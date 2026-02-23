@@ -29,14 +29,14 @@ This app helps users add, manage, and track daily tasks efficiently.
 - Delete tasks when no longer needed.
 
 
-##🌟 Future Improvements
+## 🌟 Future Improvements
 - 💾 Local Storage support
 - 🌙 Dark mode
 - 📅 Due dates
 - 🗂️ Task categories
 - 🔄 Drag-and-drop reordering
 
-##📄 License
+## 📄 License
 This project is created for learning and academic purposes.
 
 
